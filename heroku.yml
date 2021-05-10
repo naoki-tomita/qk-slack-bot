@@ -1,6 +1,3 @@
-setup:
 build:
   docker:
     web: environments/Dockerfile
-release:
-run:
